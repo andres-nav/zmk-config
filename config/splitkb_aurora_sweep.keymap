@@ -66,8 +66,8 @@
         bindings = <
         &kp Q &kp W &kp E &kp R &kp T                       &kp Y &kp U  &kp I    &kp O   &kp P
         &mt LGUI A &mt LALT S &mt LCTRL D &mt LSFT F &kp G       &kp H &mt LSFT J &mt LCTRL K &mt LALT L &mt LGUI SEMI
-        &kp Z &kp X &kp C &kp V &kp B                      &kp N &kp M  &kp CMMA &kp DOT &kb SLASH
-                        &kb TAB  &kp ESC                  &kp RETURN &mo SPACE
+        &kp Z &kp X &kp C &kp V &kp B                      &kp N &kp M  &kp CMMA &kp DOT &kp SLASH
+                        &kp TAB  &kp ESC                  &kp RETURN &kp SPACE
         >;
         };
 
